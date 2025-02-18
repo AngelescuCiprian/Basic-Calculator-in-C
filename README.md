@@ -16,7 +16,7 @@ The user can select an operation by entering A, S, M, or D and can repeat the pr
 🚀 How to Run the Program
 Clone the repository:
 sh
-git clone https://github.com/user/repo-name.git
+git clone https://github.com/AngelescuCiprian/Basic-Calculator-in-C.git
 Compile the code (using GCC):
 sh
 gcc calculator.c -o calculator
