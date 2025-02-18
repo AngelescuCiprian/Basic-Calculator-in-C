@@ -23,17 +23,7 @@ gcc calculator.c -o calculator
 Run the program:
 sh
 ./calculator
-📷 Screenshot
-Enter A for Addition 
-Enter S for Subtraction 
-Enter M for Multiplication 
-Enter D for Division 
-Enter your choice: A
 
-Enter two numbers: 5 3
-The Addition is: 8.00
-
-Do you want to perform another operation? (y/n): 
 📌 Contributions
 Any suggestions or improvements are welcome! You can fork the project and submit a pull request.
 
