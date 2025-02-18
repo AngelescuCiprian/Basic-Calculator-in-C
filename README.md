@@ -1,5 +1,5 @@
 # Basic-Calculator-in-C
-This project is a simple calculator written in C, allowing users to perform basic mathematical operations.
+This project is a simple calculator written in C, allowing users to perform basic mathematical operations:
 ➕ Addition
 ➖ Subtraction
 ✖️ Multiplication
